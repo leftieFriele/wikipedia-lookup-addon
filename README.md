@@ -1,5 +1,4 @@
-This is the addons add-on.  It contains:
+Wikipedia Lookup Add-on
 
-* A program (lib/main.js).
-* A few tests.
-* Some meager documentation.
+* This is a port of the original addon
+* By no means finished yet... work in progress
